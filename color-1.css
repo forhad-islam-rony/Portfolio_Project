@@ -1,0 +1,56 @@
+:root{
+    --root-color: linear-gradient( 109.6deg,  rgba(5,84,94,1) 16%, #bbb 91.1% );
+    --navlist-color: #333333;
+    --navlist-line: #4F4F4F;
+    --navlist-hover: #034754;
+    --navbar-logo: -webkit-linear-gradient(left, #5ca8a4, #a9a3c2);
+    --hamburger: #d2d2db;
+    --left-icon: #ccccd7;
+    --left-icon-hover:linear-gradient(#ccccd7,#36454F);
+    --typing:#312929;
+    --s1-name:#9e9794;
+    --s2-name:#c2bdba; 
+    --main-details:#121a20;
+    --cv-button:#20242b;
+    --img-boxshadow:#011e1c;
+
+
+    
+    --section-title: #c2b5af;
+    --title-line: #b3a198;
+    --information:#262e36;
+    --information-boarder:#3e4c59;
+    --tablink:#9f3c3c;
+    --tablink-background:#d4d4dd;
+    --tablink-color:#57524f;
+    --tablink-hovar: #756e6b;
+    --course: #39424a;
+    --institute:#142a3d;
+    --cube:rgb(215, 70, 70);
+    --percentage:#5d4848;
+    --progress:#778fa3;
+    --progress-bar:#335470;
+
+
+    --box:#c2c2cf;
+    --box-after:#c6b9b9;
+    --box-title:  #044d47;
+
+    --project:rgb(55, 99, 105) ;
+    --project-boarder:rgb(45, 80, 85);
+    --project-shadow: #0a4b45;
+    --project-list:#0d1c29;
+
+    --contact:#cacad6;
+    --contact-a:#24393d;
+
+    
+    --switcher: rgb(13, 59, 65);
+    --switcher-icon:#1a222a;
+
+    --mark1:#dcbdd8;
+    --mark2:#edceed;
+    --mark3:#efcddc ;
+    --mark4: #bbe8e9;
+    --mark5:#868eb5;
+}
